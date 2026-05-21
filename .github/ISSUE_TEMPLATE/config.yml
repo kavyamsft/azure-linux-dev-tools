@@ -6,3 +6,4 @@ contact_links:
   - name: Azure Linux distro issues
     url: https://github.com/microsoft/azurelinux/issues
     about: "For issues with Azure Linux itself (for example: distro packages, kernel, base image content), please file in the azurelinux repo."
+    
