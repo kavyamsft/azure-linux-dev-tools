@@ -3,7 +3,6 @@ name: Documentation issue
 about: Report a problem with docs or suggest a documentation improvement
 title: "[Docs]: "
 labels: documentation
-assignees: ""
 
 ---
 
